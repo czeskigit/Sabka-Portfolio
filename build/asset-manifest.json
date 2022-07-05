@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.e79630f7.css",
+    "main.css": "./static/css/main.6e10cf20.css",
     "main.js": "./static/js/main.ca0b231b.js",
     "static/js/787.88a4330c.chunk.js": "./static/js/787.88a4330c.chunk.js",
     "static/media/animowany_bear_kafel.gif": "./static/media/animowany_bear_kafel.1a6f4e89a84863b2a8b6.gif",
@@ -9,7 +9,7 @@
     "static/media/magnat_metamorfozy_www.mp4": "./static/media/magnat_metamorfozy_www.679cbb0ddc42177c0207.mp4",
     "static/media/magnat_creative.mp4": "./static/media/magnat_creative.1cd31c04795a8a460ce9.mp4",
     "static/media/kafel_animacje.gif": "./static/media/kafel_animacje.280376a6c15d3be1926d.gif",
-    "static/media/kafel_animacje_02.gif": "./static/media/kafel_animacje_02.22100f881ba4bcf681f3.gif",
+    "static/media/kafel_animacje_mobile.gif": "./static/media/kafel_animacje_mobile.478a6a17f41b0802a9d6.gif",
     "static/media/bifri.mp4": "./static/media/bifri.3054831fd2d5c43aaa55.mp4",
     "static/media/met02.mp4": "./static/media/met02.e9360faceb4e21e3282a.mp4",
     "static/media/stawy.png": "./static/media/stawy.b77a069c14bfa9c76b34.png",
@@ -130,12 +130,12 @@
     "index.html": "./index.html",
     "static/media/logoBlack.svg": "./static/media/logoBlack.ed2f067b7d570141ca44f0a89bcf3baa.svg",
     "static/media/logo.svg": "./static/media/logo.16a5ac50239171f24dd7317f7fd4f16d.svg",
-    "main.e79630f7.css.map": "./static/css/main.e79630f7.css.map",
+    "main.6e10cf20.css.map": "./static/css/main.6e10cf20.css.map",
     "main.ca0b231b.js.map": "./static/js/main.ca0b231b.js.map",
     "787.88a4330c.chunk.js.map": "./static/js/787.88a4330c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e79630f7.css",
+    "static/css/main.6e10cf20.css",
     "static/js/main.ca0b231b.js"
   ]
 }
