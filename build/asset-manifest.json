@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.6e10cf20.css",
-    "main.js": "./static/js/main.ca0b231b.js",
+    "main.css": "./static/css/main.afc001ca.css",
+    "main.js": "./static/js/main.c1cb91af.js",
     "static/js/787.88a4330c.chunk.js": "./static/js/787.88a4330c.chunk.js",
     "static/media/animowany_bear_kafel.gif": "./static/media/animowany_bear_kafel.1a6f4e89a84863b2a8b6.gif",
     "static/media/mis_animacja.mp4": "./static/media/mis_animacja.b063db4d872c9228a6da.mp4",
@@ -130,12 +130,12 @@
     "index.html": "./index.html",
     "static/media/logoBlack.svg": "./static/media/logoBlack.ed2f067b7d570141ca44f0a89bcf3baa.svg",
     "static/media/logo.svg": "./static/media/logo.16a5ac50239171f24dd7317f7fd4f16d.svg",
-    "main.6e10cf20.css.map": "./static/css/main.6e10cf20.css.map",
-    "main.ca0b231b.js.map": "./static/js/main.ca0b231b.js.map",
+    "main.afc001ca.css.map": "./static/css/main.afc001ca.css.map",
+    "main.c1cb91af.js.map": "./static/js/main.c1cb91af.js.map",
     "787.88a4330c.chunk.js.map": "./static/js/787.88a4330c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e10cf20.css",
-    "static/js/main.ca0b231b.js"
+    "static/css/main.afc001ca.css",
+    "static/js/main.c1cb91af.js"
   ]
 }
